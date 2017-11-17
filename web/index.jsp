@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>My First Web</title>
+    <title>My First Web </title>
   </head>
   <body>
   <h2>这是我的第一个web项目</h2>
